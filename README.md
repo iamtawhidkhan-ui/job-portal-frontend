@@ -65,5 +65,5 @@ CareerPath lets job seekers browse and apply for jobs (with support for custom a
 
 ## Live Demo
 
-- **Frontend:** _add your deployed Vercel URL here_
-- **API:** _add your deployed Render URL here_
+- **Frontend:** https://job-portal-frontend-nine-beta.vercel.app
+- **API:** https://job-portal-backend-poyk.onrender.com
